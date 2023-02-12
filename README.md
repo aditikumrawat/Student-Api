@@ -1,5 +1,5 @@
 # Student-Api
-# It is a Student Api using django.
+# API with CRUD operations.
 # To use these project just follow the below steps
 1.Create a folder and then create a virtual environment using command:
   virtualenv name_of_environment.
